@@ -8,7 +8,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 Hier ist der für ein Login-Menü:
-´´´
+
+´´´html
 <div class="flex min-h-screen items-center justify-center bg-gray-100 dark:bg-gray-900">
   <div class="w-full max-w-md space-y-6 rounded-lg bg-white p-8 shadow-lg dark:bg-gray-800">
     <div class="space-y-2 text-center">
